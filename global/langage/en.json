@@ -1,0 +1,83 @@
+{
+    "nav_services": "Tjänster",
+    "nav_showroom": "Showroom",
+    "nav_contact": "Kontakt",
+    "nav_developers": "Utvecklare",
+    "home_h_1": "Vi är en liten techbyrå som skapar ",
+    "home_h_2": [
+        "levande",
+        "roliga",
+        "galna",
+        "vackra"
+    ],
+    "home_h_3": "webprogram åt er.",
+    "readmore_txt": "Läs mer",
+    "about_h": "",
+    "about_text": "",
+    "about_card": [
+        {
+            "id": "_ID:wc1",
+            "direction": "left",
+            "link": "www.jumpcode.org",
+            "image": "",
+            "background_color": "#ff719c",
+            "about_card_h": "Webutveckling och Strategi",
+            "about_card_txt": "At the heart of Slack are channels: organized spaces for everyone and everything you need for work. In channels, it’s easier to connect across departments, offices, time zones and even other companies."
+        },
+        {
+            "id": "_ID:wc2",
+            "direction": "right",
+            "link": "www.jumpcode.org",
+            "image": "",
+            "background_color": "#ff719c",
+            "about_card_h": "Digital design och användarupplevelse",
+            "about_card_txt": "At the heart of Slack are channels: organized spaces for everyone and everything you need for work. In channels, it’s easier to connect across departments, offices, time zones and even other companies."
+        },
+        {
+            "id": "_ID:wc3",
+            "direction": "left",
+            "link": "www.jumpcode.org",
+            "image": "",
+            "background_color": "#ff719c",
+            "about_card_h": "Marknadsrådgivning och -Optimering",
+            "about_card_txt": "At the heart of Slack are channels: organized spaces for everyone and everything you need for work. In channels, it’s easier to connect across departments, offices, time zones and even other companies."
+        }
+    ],
+    "showroom_h": "Vårt Showroom",
+    "showroom_projects": [
+        {
+            "id": "card_",
+            "title": "MenuRolette",
+            "subcategory": "WebApplikation",
+            "description": "En ny och rolig take på matkassen som ska ge ett större utbud till hemleveransen.",
+            "status": "Kommer snart",
+            "img_cover_hex": "#ff719c",
+            "img": "0"
+        },
+        {
+            "id": "card_",
+            "title": "MenuRolette",
+            "subcategory": "WebApplikation",
+            "description": "En ny och rolig take på matkassen som ska ge ett större utbud till hemleveransen.",
+            "status": "Kommer snart",
+            "img_cover_hex": "#e3ff71",
+            "img": "0"
+        },
+        {
+            "id": "card!_",
+            "title": "MenuRolette",
+            "subcategory": "WebApplikation",
+            "description": "En ny och rolig take på matkassen som ska ge ett större utbud till hemleveransen.",
+            "status": "Kommer snart",
+            "img_cover_hex": "#8d71ff",
+            "img": "0"
+        }
+    ],
+    "showroom_text": "Vi utvecklar och designar alltifrån hemsidor till skräddasydda affärssystem med avändaren i fokus.",
+    "showroom_link_text": "Läs mer om våra projekt",
+    "foot_h": "Skriv till oss!",
+    "copy_mail": "carl@jumpcode.org",
+    "fa_link": "www.facebook.com",
+    "li_link": "www.linkedin.com",
+    "foot_copyright": "Copyright © 2022 JUMPCODE.ORG  All rights reserved. A Good Day IT AB Organization number: 559335-7055"
+}

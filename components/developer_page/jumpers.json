@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Carl",
+        "img": "imgfolder or database?",
+        "skills": [
+            {
+                "title": "Frontend",
+                "experience": [
+                    "typescript",
+                    "javascript",
+                    "react",
+                    "next.js",
+                    "html",
+                    "css"
+                ]
+            },
+            {
+                "title": "Design",
+                "experience": [
+                    "illustraitor",
+                    "photoshop",
+                    "XD",
+                    "blender"                   
+                ]
+            }
+        ],
+        "socialmedia": [
+            {"icon_href": "github", "link": "https://github.com/Ca2le"},
+            {"icon_href": "linkedin", "link": "https://www.linkedin.com/in/carl-sporrong-400a84157/"}
+        ]
+
+    }
+]

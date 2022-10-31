@@ -1,0 +1,74 @@
+{
+    "nav_services": "Tjänster",
+    "nav_showroom": "Showroom",
+    "nav_contact": "Kontakt",
+    "nav_developers": "Utvecklare",
+"home_h_1": "Jag heter Carl och jag skapar",
+    "home_h_2": [
+        "roliga",
+        "speciella",
+        "galna",
+        "vackra"
+    ],
+    "home_h_3": "webprogram.",
+    "readmore_txt": "Läs mer",
+    "about_h": "",
+    "about_text": "",
+    "about_card": [
+        {
+            "id": "_ID:wc1",
+            "direction": "left",
+            "link": "Javascript Typescript JSON HTML CSS",
+            "image": "",
+            "background_color": "#ff719c",
+            "about_card_h": "Utveckling",
+            "about_card_txt": "Med hjälp av de mest populära tekniker idag utvecklar jag hemsidor, webbapplikationer, CRM-system och annat  för att möta användarens behov."
+        },
+        {
+            "id": "_ID:wc2",
+            "direction": "right",
+            "link": "Illustraitor Photoshop XD Blender",
+            "image": "",
+            "background_color": "#8d71ff",
+            "about_card_h": "Digital design och UX",
+            "about_card_txt": "Med flera års erfarenhet av både användarupplevelse och gränssnitt kan jag hjälpa och ta fram webbdesign, mockups, prototypes och mycket mer."
+        },
+        {
+            "id": "_ID:wc3",
+            "direction": "left",
+            "link": "Agile Scrum",
+            "image": "",
+            "background_color": "#e3ff71",
+            "about_card_h": "Mer om Carl",
+            "about_card_txt": "En tekniknörd med entreprenörsanda som älskar att utveckla. Jag har höga ambitioner och vill göra en lång karriär inom utveckling."
+        }
+    ],
+    "showroom_h": "Vårt Showroom",
+    "showroom_projects": [
+        {
+            "id": "card_",
+            "title": "MenuRolette",
+            "subcategory": "WebApplikation",
+            "description": "En ny och rolig take på matkassen som ska ge ett större utbud till hemleveransen.",
+            "status": "Kommer snart",
+            "img_cover_hex": "#ff719c",
+            "img": "0"
+        },
+        {
+            "id": "card_",
+            "title": "Matkasse.online",
+            "subcategory": "WebApplikation",
+            "description": "En ny uppstickare till matkasse världen som automatiskt hittar de bästa matkassarna för användaren",
+            "status": "Kommer snart",
+            "img_cover_hex": "#e3ff71",
+            "img": "0"
+        }
+    ],
+    "showroom_text": "Jag utvecklar och designar alltifrån hemsidor till skräddasydda cms lösningar med avändaren i fokus.",
+    "showroom_link_text": "",
+    "foot_h": "Kontakta",
+    "copy_mail": "carl@jumpcode.org",
+    "fa_link": "www.facebook.com",
+    "li_link": "www.linkedin.com",
+    "foot_copyright": "Copyright © 2022 JUMPCODE.ORG  All rights reserved. A Good Day IT AB Organization number: 559335-7055"
+}
